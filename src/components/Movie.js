@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import "./App.css";
+import "./Movie.css";
 
 // state 가 필요하지 않으므로 function 
 // state 가 필요 없을 경우에는 class component 가 될 필요가 없다
